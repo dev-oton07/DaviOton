@@ -19,3 +19,7 @@
     <img aling="center" alt="html5"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img aling="center" alt="html5"src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
+
+## Tecnologias utilizadas em projetos
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-oton07)](https://github.com/anuraghazra/github-readme-stats)
